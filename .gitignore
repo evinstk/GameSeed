@@ -1,0 +1,15 @@
+*.suo
+*.ncb
+*.user
+*.ccscc
+*.cache
+
+*~
+*.bak
+\#*\#
+*.orig
+
+Temp
+*/obj/
+*/Obj/
+

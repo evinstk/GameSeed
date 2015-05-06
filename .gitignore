@@ -10,6 +10,7 @@
 *.orig
 
 Temp
+Lib
 */obj/
 */Obj/
 

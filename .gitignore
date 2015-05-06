@@ -3,6 +3,7 @@
 *.user
 *.ccscc
 *.cache
+*.sdf
 
 *~
 *.bak
@@ -13,5 +14,5 @@ Temp
 Lib
 */obj/
 */Obj/
-*/ipch/
+ipch
 
